@@ -43,7 +43,7 @@ jobs:
         if: steps.verify_diff.outputs.changed == 'true'
         uses: dawidd6/action-send-mail@v3
         with: 
-            server_address: smtp.gmail.com
+            server_address: mail.borges.net.br
             server_port: 465
             # Optional (recommended) mail server username:
             username: ${{secrets.MAIL_USERNAME}}
