@@ -52,7 +52,7 @@ jobs:
             # Required mail subject:
             subject: Ipea DOU bot has been updated
             # Required recipients' addresses:
-            to: bb.cron.jobs@gmail.com
+            to: bb.cron.jobs@gmail.com, rodrigo@borges.net.br
             # Required sender full name (address can be skipped):
             from: Outspacer
             # Optional plain body:
