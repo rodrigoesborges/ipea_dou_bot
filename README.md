@@ -2,7 +2,7 @@
  This is an attempt to automate changes of personnel at an specific federal entity in Brazil: Ipea
  
                         Very last change: 
- 	 16 April, 2026
+ 	 17 April, 2026
 	Art. 1º Ceder o servidor RODRIGO TONETO, Matrícula SIAPE nº XX213XX, ocupante do cargo de Técnico de Planejamento e Pesquisa, pertencente ao Quadro de Pessoal da Fundação Instituto de Pesquisa Econômica Aplicada - IPEA, para exercer o Cargo em Comissão de Subsecretário de Política Fiscal, código CCE 1.15, da Secretaria de Política Econômica do Ministério da Fazenda.
 1. Tornar pública a relação dos aposentados e/ou pensionistas que terão o pagamento do provento e benefício de pensão suspenso por motivo de não atendimento à convocação e respectiva notificação para realizar a prova de vida anual, no mês do aniversário - Dezembro/2025.
 Autorizar o Afastamento do País do servidor Fábio Véras Soares, ocupante do cargo de Técnico de Planejamento e Pesquisa, matrícula Siape nº XX990XX, em exercício na Diretoria de Estudos Internacionais - Dinte do Instituto de Pesquisa Econômica Aplicada - IPEA, a fim de participar do Workshop de Escrita e Evento de Divulgação do IGS, com o objetivo de avançar na redação dos diferentes capítulos que comporão o Relatório e na integração das diferentes partes e o servidor coordenará o Capítulo 2, que trata da dificuldade em avançar (ou escalonar) abordagens integradas para os ODS: "Why integrated approaches still struggle in practice", no período de 11 a 16 de abril de 2026, em Berlim/Alemanha, incluído trânsito, com ônus limitado.
