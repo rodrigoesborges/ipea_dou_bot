@@ -2,7 +2,7 @@
  This is an attempt to automate changes of personnel at an specific federal entity in Brazil: Ipea
  
                         Very last change: 
- 	 27 April, 2026
+ 	 28 April, 2026
 	Autorizar o Afastamento do País do servidor ALEXANDRE SAMY DE CASTRO, ocupante do cargo de Técnico de Planejamento e Pesquisa, matrícula SIAPE nº XX005XX, em exercício na Diretoria de Estudos e Políticas Sociais - Disoc do Instituto de Pesquisa Econômica Aplicada - IPEA, a fim de apresentar o artigo "O Colapso da Divisão entre Política Externa e Doméstica nos Estados unidos" na Conferência Final Demo Trans: Democracia, Globalização e o Futuro da Governança , no período de 05 a 08 de maio de 2026, em Leuvin/Bélgica, incluído trânsito, com ônus.
 Autorizar o Afastamento do País do servidor ANDRÉ DE MELLO E SOUZA, ocupante do cargo de Técnico de Planejamento e Pesquisa, matrícula SIAPE nº XX046XX, em exercício na Diretoria de Estudos Internacionais - Dinte do Instituto de Pesquisa Econômica Aplicada - IPEA, a fim de participar da Segunda Oficina Regional na América Latina e Caribe sobre a Quantificação da Cooperação Sul-Sul, com o objetivo de atender a demanda da Agência Brasileira de Cooperação (ABC), integrando a delegação brasileira no período de 27 a 30 de abril de 2026, em Bogotá/Colômbia, incluído trânsito, com ônus limitado.
 Dispensar, a contar de 13 de abril de 2026, a servidora LUCIANA ACIOLY DA SILVA, matrícula SIAPE nº XX217XX, da Função Comissionada de Assessora Técnica, código FCE 2.10, do Gabinete da Presidência do Instituto de Pesquisa Econômica Aplicada - Ipea.
