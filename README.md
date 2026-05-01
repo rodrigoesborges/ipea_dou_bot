@@ -2,7 +2,7 @@
  This is an attempt to automate changes of personnel at an specific federal entity in Brazil: Ipea
  
                         Very last change: 
- 	 30 April, 2026
+ 	 01 May, 2026
 	Art. 1º Autorizar o exercício externo do servidor EDUARDO GOMOR DOS SANTOS, Analista de Planejamento e Orçamento, matrícula Siape nº 1859070, na Coordenação de Igualdade de Gênero, Raça e Gerações da Coordenação-Geral de Estudos e Políticas Sociais da Diretoria de Estudos e Políticas Sociais do Instituto de Pesquisa Econômica Aplicada - Ipea.
 1. Tornar pública a relação dos aposentados e pensionistas que terão o pagamento do provento e benefício de pensão restabelecido em virtude de seu comparecimento para a realização do recadastramento anual de 2025.
 Autorizar o Afastamento do País do servidor ALEXANDRE SAMY DE CASTRO, ocupante do cargo de Técnico de Planejamento e Pesquisa, matrícula SIAPE nº XX005XX, em exercício na Diretoria de Estudos e Políticas Sociais - Disoc do Instituto de Pesquisa Econômica Aplicada - IPEA, a fim de apresentar o artigo "O Colapso da Divisão entre Política Externa e Doméstica nos Estados unidos" na Conferência Final Demo Trans: Democracia, Globalização e o Futuro da Governança , no período de 05 a 08 de maio de 2026, em Leuvin/Bélgica, incluído trânsito, com ônus.
