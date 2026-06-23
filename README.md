@@ -2,7 +2,7 @@
  This is an attempt to automate changes of personnel at an specific federal entity in Brazil: Ipea
  
                         Very last change: 
- 	 22 June, 2026
+ 	 23 June, 2026
 	Autorizar o Afastamento do País do servidor Bruno Queiroz Cunha, ocupante do cargo de Especialista em Políticas Pública e Gestão Governamental - EPPGG, matrícula Siape nº *549*, em exercício na Diretoria de Estudos e Políticas do Estado, das Instituições e da Democracia (DIEST) do Instituto de Pesquisa Econômica Aplicada - IPEA, a fim de participar da "Conferência 2026 da SASE (Society for the Advancement of Socio-Economics)", no período de 29 de junho a 05 de julho de 2026, em Bourdeaux/França, incluído trânsito, com ônus limitado.
 Autorizar o Afastamento do País do servidor Fábio Véras Soares, ocupante do cargo de Técnico de Planejamento e Pesquisa, matrícula Siape nº XX990XX, em exercício na Diretoria de Estudos Internacionais - DINTE do Instituto de Pesquisa Econômica Aplicada - IPEA, a fim de participar das conferências: "Sustainabilty Cooperation - Beyond 2030 - Ways for a messy word" e "Hamburg Sustainability Conference", no período de 23 de junho a 1º de julho de 2026, em Bonn e Hamburgo/Alemanha, incluído trânsito, com ônus limitado.
 Autorizar o Afastamento do País do servidor Alexandre dos Santos Cunha, ocupante do cargo de Técnico de Planejamento e Pesquisa, Diretor, matrícula Siape nº *033*, em exercício na Diretoria de Estudos e Políticas Regionais, Urbanas e Ambientais - DIRUR do Instituto de Pesquisa Econômica Aplicada - IPEA, a fim de participar do "8º GEOFRONTERAS: Seminário Internacional dos Espaços de Fronteira", no período de 06 a 11 de outubro 2026, em Posadas/Argentina, incluído trânsito, com ônus limitado.
