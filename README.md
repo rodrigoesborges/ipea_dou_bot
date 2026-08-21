@@ -2,7 +2,7 @@
  This is an attempt to automate changes of personnel at an specific federal entity in Brazil: Ipea
  
                         Very last change: 
- 	 20 August, 2026
+ 	 21 August, 2026
 	Art. 1º Autorizar o Afastamento do servidor João Maria de Oliveira, ocupante do cargo de Técnico de Planejamento e Pesquisa, matrícula Siape nº XX063XX, em exercício na Diretoria de Estudos e Políticas Macroeconômicas (DIMAC), deste Instituto de Pesquisa Econômica Aplicada - IPEA, com vistas a participar do Programa de Pós-Doutorado, no GTAP Center do departamento de Economia Agrícola da Universidade de Purdue (Indiana/EUA), a ser realizado no período de 11 de janeiro de 2027 a 10 de janeiro de 2028, no West Lafayette, Indiana, Estados Unidos, por 12 (doze) meses, com ônus limitado.
 Art. 2º Os servidores deverão apresentar-se ao órgão ou entidade de exercício no prazo de até 15 (quinze) dias, a partir da posse.
 Art. 1º Efetivar o exercício dos ocupantes do cargo de Analista Técnico Executivo, do Quadro de Pessoal desta Pasta, conforme discriminado no Anexo I desta Portaria.
